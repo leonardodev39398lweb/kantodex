@@ -2,6 +2,10 @@
 
 Pokédex responsiva dos 151 Pokémon da primeira geração, criada com React, TypeScript e Vite. Os dados vêm da PokéAPI e os favoritos ficam salvos no navegador.
 
+## Site publicado
+
+Depois de habilitar GitHub Pages com a fonte **GitHub Actions**, o site ficará disponível em: https://leonardodev39398lweb.github.io/kantodex/
+
 ## Rodar no VS Code
 
 1. Instale Node.js LTS.
